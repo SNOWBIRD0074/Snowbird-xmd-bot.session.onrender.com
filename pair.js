@@ -109,7 +109,7 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "DIGITEX XMD",
+title: "DIGITEX TMD",
 thumbnailUrl: "https://storage.giftedtech.web.id/file/download/sbqQW.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb5zdsiA89MrLd1hAk2Q",
 mediaType: 2,
